@@ -1,0 +1,53 @@
+body {
+  background-color: #84DEBA;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  margin: 5px auto;
+  padding: 1px;
+}
+
+
+#idCard {
+margin: auto;
+margin-top: 60px;
+background-color: #A3C6ED;
+border: 5px solid black;
+border-radius: 1.7em;
+height: 14em;
+width: 25em;
+font-family: 'IBM Plex Mono', monospace;
+}
+
+img {
+width: 90px;
+height: 90px;
+float: left;
+}
+
+#postFullName {
+  text-align: center;
+  font-size: 36px;
+  margin: 30px 15px 0px;
+}
+
+#postAge {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+#postPhoneNumber {
+  margin-left: 5px;
+}
+
+#postAddress {
+  margin-left: 5px;
+}
